@@ -1,0 +1,11 @@
+Вот ссылка на скачивание приложения сказки из Google Drive из-за того что
+приложение является 60 mb нельзя его напрямую скачать из GitHub поэтому мы загрузили наше приложение в Google Drive наслаждайтесь использованием
+
+
+https://drive.google.com/file/d/1ghtQiQ026FTv-gDxD5_VYqBolmb4vT0k/view?usp=sharing
+
+
+
+by: danmark
+version: 1.0
+всё защищено авторским правом
